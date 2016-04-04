@@ -1,19 +1,17 @@
-<div id="footer">
-      <div class="footer-addr">        
-        <div class="col-sm-4">
-          <div class="footer-addrblock"> <span class="pull-left footer-indmap">&nbsp;</span>
-            <div class="addr-areafooter pull-left">
-              <p>Pune, India</p>
-              <p>(020) 256998725</p>
+<footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Faq</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </div>
             </div>
-          </div>
         </div>
-        
-      </div>
-     
-      <div class="col-sm-6">
-        <div class="copy-txt"> <span> Copyright &copy; <?php echo date("Y") ?> 
-          All rights reserved. </span> </div>
-      </div>
-      <div class="clearfix"></div>
-    </div>
+    </footer><!--/#footer-->

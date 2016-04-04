@@ -4,7 +4,7 @@
    include("tpl/header.php");
   ?>
   <!-- Wrapper start -->
-  <div class="container"> 
+
     <!-- Begin page maincontent -->
     <?php
 	 	include("tpl/$strAction.php");
@@ -16,17 +16,22 @@
 	 	include("tpl/footer.php");
 	 ?>
     <!--Footer End--> 
-  </div>
+
   <!-- End page maincontent --> 
   
-</div>
+
 
 <!-- Bootstrap core JavaScript
     ================================================== --> 
 <!-- Placed at the end of the document so the pages load faster --> 
 <script type="text/javascript" src="js/jquery-1.10.2.js"></script> 
 <script type="text/javascript" src="js/jquery.validate.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
+
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="js/jquery.is otope.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/wow.min.js"></script>
 
 <script>
  //GoogleAnalyticsObject
