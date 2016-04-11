@@ -42,12 +42,12 @@
                                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
                             </ul>
-                            <div class="search">
+                            <!-- <div class="search">
                                 <form role="form">
                                     <input type="text" class="search-form" autocomplete="off" placeholder="Search">
                                     <i class="fa fa-search"></i>
                                 </form>
-                           </div>
+                           </div> -->
                        </div>
                     </div>
                 </div>
@@ -68,21 +68,12 @@
         
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog-item.html">Blog Single</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="404.html">404</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="blog.html">Blog</a></li> 
-                        <li><a href="contact-us.html">Contact</a></li>                        
+                        <li><a href="<?php echo SITE_NAME?>">Home</a></li>
+                        <li><a href="<?php echo fnLinkBuilder("aboutus")?>">About Us</a></li>          
+                        <li><a href="<?php echo fnLinkBuilder("products")?>">Products</a></li>
+                        <li><a href="<?php echo fnLinkBuilder("services")?>">Services</a></li>
+                        <li><a href="<?php echo fnLinkBuilder("facilities")?>">Facilities</a></li>
+                        <li><a href="<?php echo fnLinkBuilder("contact")?>">Contact Us</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
