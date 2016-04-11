@@ -1,2 +1,9 @@
-
-@media (max-width: 800px) {
+h2.page-title{
+	color: #333;
+}
+.title-red{
+	color: #ec4449;
+}
+#maincontent > section{
+	padding: 70px 0;
+}
