@@ -4,142 +4,34 @@
         <div class="container">
 			<div class="center wow fadeInDown">
 				<h2>About <span class="title-red">FOURTECH</span></h2>
-				<p class="lead">FOURTECH ENGINEERING  is a part of the SAKI AUTO GROUP , Pune.</p>
 			</div>
 
 			<!-- our-team -->
 			<div class="team">
-				<div class="center wow fadeInDown">
-					<h2>Team of Corlate</h2>
-					<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+				<div class="wow fadeInDown">
+					<p class="lead">FOURTECH ENGINEERING  is a part of the SAKI AUTO GROUP , Pune.
+						The Group established in 1996 under the dynamic leadership of Sh SURESH Y MESTRY has successfully grown into a diversified manufacturing organization specialising in the manufacture of custom and tailor made Tanks, Cylinders and specially fabricated assemblies and components.
+					</p>
+				</div>
+				<div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+					<p class="lead">
+					The Group units at Chinchwad MIDC , Pimpri MIDC ( PUNE) and Nagpur MIDC have all the modern facilities of : WELDING/PROCESSING/SPM’s/ PLC CONTROLLED LEAKAGE TESTING MACHINES/ CONVEYORISED PAINTING FACILITIES/MACHINING CENTRES/TOOL ROOM FACILITIES and ADVANCED CAD/CAM WORK STATIONS.
+					</p>
 				</div>
 
-				<div class="row clearfix">
-					<div class="col-md-4 col-sm-6">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man1.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div><!--/.col-lg-4 -->
-					
-					
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man2.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div><!--/.col-lg-4 -->					
-				</div> <!--/.row -->
-				<div class="row team-bar">
-					<div class="first-one-arrow hidden-xs">
-						<hr>
-					</div>
-					<div class="first-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="second-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-					<div class="third-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="fourth-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-				</div> <!--skill_border-->       
+				<div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+					<p class="lead">
+					FOUR -TECH was formed with the specific objectives of offering clients in the Industrial sector products and services in the field of  SPECIAL  VALVES, AUTOMATED SYSTEMS, HIGH PRESSURE PNEUMATIC AND HYDRAULIC CYLINDERS/ENGINEERED CONTROL PANELS AND SYSTEMS to name a few.
+					</p>
+				</div>
 
-				<div class="row clearfix">   
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man3.jpg" alt=""></a>
-								</div>
+				<div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+					<p class="lead">
+					With a team of highly qualified,experienced and dedicated engineers, FOUR-TECH ENGINEERING also offers complete outsourcing services comprising of Vendor selection approvals, development,design,and warehousing facilities to its overseas clients partnering with them to source specially engineered components from INDIA.
+					</p>
+				</div>
 
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 col-md-offset-2">
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man4.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div>
-				</div>	<!--/.row-->
+
 			</div><!--section-->
 		</div><!--/.container-->
     </section><!--/about-us-->

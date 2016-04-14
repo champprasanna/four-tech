@@ -183,10 +183,10 @@ body > section {
 }
 
 .top-bar {
-  padding: 10px 0;
+  padding: 4px 0;
   background: #191919;
-  border-bottom: 1px solid #222;
-  line-height: 28px;
+  // border-bottom: 1px solid #222;
+  // line-height: 28px;
 }
 
 .top-number{
@@ -594,12 +594,28 @@ input.search-form:hover {
 
 .recent-work-wrap {
   position: relative;
+  margin: 2px;
 }
 
 .recent-work-wrap img{
   width: 100%;
 }
-
+.portfolio-item .recent-work-wrap .caption{
+  position: absolute;
+  text-align: right;
+  background: rgba(255, 255, 255, 0.7);
+  bottom: 0;
+  left:0;
+  right:0;  
+  padding: 0 20px;
+  color: #000;
+}
+.portfolio-item .recent-work-wrap .caption h5{
+  font-size: 24px;
+}
+.portfolio-item .recent-work-wrap .caption p{
+  font-size: 16px;
+}
 .recent-work-wrap .recent-work-inner{
   top: 0;
   background: transparent;
@@ -636,21 +652,29 @@ input.search-form:hover {
   padding: 30px;
 }
 
-.recent-work-wrap .overlay .preview {
-  bottom: 0;
-  display: inline-block;
-  height: 35px;
-  line-height: 35px;
-  border-radius: 0;
-  background: transparent;
-  text-align: center;
-  color: #fff;
-}
-
 .recent-work-wrap:hover .overlay {
-  opacity: 1;
+  opacity: 1!important;
 }
-
+.recent-work-wrap .overlay .fa{
+  position: absolute;
+  right:10px;
+  top:10px;
+  display: none;
+  cursor: pointer;
+}
+.recent-work-wrap .overlay .gallary{
+  overflow: hidden;
+  padding: 10px 0;
+}
+.recent-work-wrap .overlay .gallary > .preview{
+  display:block;
+  float: left;
+  padding: 0 4px;
+}
+.recent-work-wrap .overlay .gallary > .preview img{
+  width: 100px;
+  height: 100px;
+}
 #services {
   background: #000 url(../images/services/bg_services.png);
   background-size: cover;
@@ -1588,7 +1612,7 @@ ul.social_icons li  a i{
 }
 
 .portfolio-item {
-  margin: 0;
+  margin:0;
   padding:0;
 }
 
