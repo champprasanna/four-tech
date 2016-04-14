@@ -6,7 +6,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="shortcut icon" href="images/favicon.png">
-<title>Four-Tech :: </title>
+<title>FOURTECH :: </title>
 
 <!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
