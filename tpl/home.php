@@ -82,8 +82,8 @@
   <section id="recent-works">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Recent Works</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2>Our Products</h2>
+                <p class="lead">FOUR-TECH offers valves and engineered systems</p>
             </div>
 
             <div class="row">
@@ -198,7 +198,7 @@
 	   <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Our Service</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="lead">FOUR-TECH with its team of specialist engineers offers the following services to its OVERSEAS CLIENTS</p>
             </div>
 
             <div class="row">
