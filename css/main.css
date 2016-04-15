@@ -59,7 +59,9 @@ hr {
   border-top: 1px solid #e5e5e5;
   border-bottom: 1px solid #fff;
 }
-
+.text-red{
+  color: #ec4449;
+}
 
 .btn-primary {
   padding: 8px 20px;

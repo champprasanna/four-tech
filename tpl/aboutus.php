@@ -9,7 +9,7 @@
 			<!-- our-team -->
 			<div class="team">
 				<div class="wow fadeInDown">
-					<p class="lead">FOURTECH ENGINEERING  is a part of the SAKI AUTO GROUP , Pune.
+					<p class="lead"><span class="text-red">FOURTECH ENGINEERING</span> is a part of the SAKI AUTO GROUP , Pune.
 						The Group established in 1996 under the dynamic leadership of Sh SURESH Y MESTRY has successfully grown into a diversified manufacturing organization specialising in the manufacture of custom and tailor made Tanks, Cylinders and specially fabricated assemblies and components.
 					</p>
 				</div>
@@ -21,13 +21,13 @@
 
 				<div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
 					<p class="lead">
-					FOUR -TECH was formed with the specific objectives of offering clients in the Industrial sector products and services in the field of  SPECIAL  VALVES, AUTOMATED SYSTEMS, HIGH PRESSURE PNEUMATIC AND HYDRAULIC CYLINDERS/ENGINEERED CONTROL PANELS AND SYSTEMS to name a few.
+					<span class="text-red">FOUR-TECH</span> was formed with the specific objectives of offering clients in the Industrial sector products and services in the field of  SPECIAL  VALVES, AUTOMATED SYSTEMS, HIGH PRESSURE PNEUMATIC AND HYDRAULIC CYLINDERS/ENGINEERED CONTROL PANELS AND SYSTEMS to name a few.
 					</p>
 				</div>
 
 				<div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
 					<p class="lead">
-					With a team of highly qualified,experienced and dedicated engineers, FOUR-TECH ENGINEERING also offers complete outsourcing services comprising of Vendor selection approvals, development,design,and warehousing facilities to its overseas clients partnering with them to source specially engineered components from INDIA.
+					With a team of highly qualified,experienced and dedicated engineers, <span class="text-red">FOUR-TECH</span> ENGINEERING also offers complete outsourcing services comprising of Vendor selection approvals, development,design,and warehousing facilities to its overseas clients partnering with them to source specially engineered components from INDIA.
 					</p>
 				</div>
 
