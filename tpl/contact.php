@@ -104,7 +104,7 @@ if (isset($_POST['submit']))
  <?php if($strErrorMessage !="") echo "<div class='divmessage error-messages' style='padding-bottom: 10px;' ><div class='container'><span>Error!</span>",$strErrorMessage."</div></div>"; ?>
       <?php 
 if($_SESSION['message'] == "mess") {
-echo "<div  id='id_message' class='divmessage' style='padding-bottom: 10px;' >Thank you. We will get back to you in 24 hours.</div>"; ?>
+echo "<div  id='id_message' class='divmessage success-message' style='padding-bottom: 10px;' ><div class='container'>Thank you. We will get back to you in 24 hours.</div></div>"; ?>
       <script type="text/javascript">
         setTimeout('fnHidePopUp()', 7000);
         function fnHidePopUp()

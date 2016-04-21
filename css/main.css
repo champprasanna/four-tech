@@ -1018,6 +1018,11 @@ a.accordion-toggle  i{
   color: #c30207;
   padding: 4px;
 }
+.success-message{
+  padding: 10px;
+  background: #c9ffc5;
+  color: #2c8225;
+}
 .contact-info i{
   width: 60px;
   height: 60px;
