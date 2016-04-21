@@ -10,15 +10,15 @@ if (isset($_POST['submit']))
   $strCompany    = stripslashes(trim($_POST["txtCompany"]));
   $strMessage    = stripslashes(trim($_POST["txtMessage"]));
   if($strFirestName == ""){ 
-    $strErrorMessage .= "Please enter Name.<br>";
+    $strErrorMessage .= "<span>Please enter Name.</span>";
   }
 
   if($strEmail == ""){
-    $strErrorMessage .= "Please enter Email.<br>";
+    $strErrorMessage .= "<span>Please enter Email.</span>";
   }
   else{
     if(preg_match("/^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})+$/",$strEmail) == 0){
-      $strErrorMessage .= "Enter valid Email Id.<br>";
+      $strErrorMessage .= "<span>Enter valid Email Id.</span>";
     }
   }
   /*if($intPhoneNo == "") {
@@ -101,7 +101,7 @@ if (isset($_POST['submit']))
 }
 ?>
 <div id="maincontent"> 
- <?php if($strErrorMessage !="") echo "<div class='divmessage' style='padding-bottom: 10px;' >Error!<br>",$strErrorMessage."</div>"; ?>
+ <?php if($strErrorMessage !="") echo "<div class='divmessage error-messages' style='padding-bottom: 10px;' ><div class='container'><span>Error!</span>",$strErrorMessage."</div></div>"; ?>
       <?php 
 if($_SESSION['message'] == "mess") {
 echo "<div  id='id_message' class='divmessage' style='padding-bottom: 10px;' >Thank you. We will get back to you in 24 hours.</div>"; ?>
