@@ -144,7 +144,7 @@
     <section id="services" class="service-item">
 	   <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Service</h2>
+                <h2>Our Services</h2>
                 <p class="lead">FOUR-TECH with its team of specialist engineers offers the following services to its OVERSEAS CLIENTS</p>
             </div>
 

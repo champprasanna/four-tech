@@ -43,7 +43,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+                    <a class="navbar-brand" href="<?php echo SITE_NAME?>"><img src="images/logo.png" alt="logo"></a>
                 </div>
         
                 <div class="collapse navbar-collapse navbar-right">
@@ -52,7 +52,7 @@
                         <li><a href="<?php echo fnLinkBuilder("aboutus")?>">About Us</a></li>          
                         <li><a href="<?php echo fnLinkBuilder("products")?>">Products</a></li>
                         <li><a href="<?php echo fnLinkBuilder("services")?>">Services</a></li>
-                        <li><a href="<?php echo fnLinkBuilder("facilities")?>">Facilities</a></li>
+                        <!-- <li><a href="<?php echo fnLinkBuilder("facilities")?>">Facilities</a></li> -->
                         <li><a href="<?php echo fnLinkBuilder("contact")?>">Contact Us</a></li>                        
                     </ul>
                 </div>

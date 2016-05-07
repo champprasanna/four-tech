@@ -10,7 +10,7 @@
                         <li><a href="<?php echo fnLinkBuilder("aboutus")?>">About Us</a></li>          
                         <li><a href="<?php echo fnLinkBuilder("products")?>">Products</a></li>
                         <li><a href="<?php echo fnLinkBuilder("services")?>">Services</a></li>
-                        <li><a href="<?php echo fnLinkBuilder("facilities")?>">Facilities</a></li>
+                        <!-- <li><a href="<?php echo fnLinkBuilder("facilities")?>">Facilities</a></li> -->
                         <li><a href="<?php echo fnLinkBuilder("contact")?>">Contact Us</a></li>
                     </ul>
                 </div>
