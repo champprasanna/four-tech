@@ -87,52 +87,46 @@
             </div>
 
             <div class="row">
-                <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/product/recent/knife-valve-img1.png" alt="">
-                        <div class="overlay">
-                            <div class="recent-work-inner">
-                                <h3><a href="#">Knife Valve</a> </h3>
-                                <p>Specially engineered with precision machining and close tolerances with ...</p>
-                            </div> 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
                         <img class="img-responsive" src="images/product/recent/ball-valve-img1.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Ball Valve</a> </h3>
-                                <p>The FOUR TECH BALL VALVE is offered in different sizes with pressure ratings of 600 class...</p>
+                                <p> The FOURTECH BALL VALVE TYPES ON OFFER WILL MEET MOST OF THE CRITICAL APPLICATION REQUIREMENTS THAT YOU WILL ENCOUNTER-
+                 WITH A WIDE RANGE OF MATERIAL CHOICES...</p>
                             </div> 
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-4 col-md-3">
+
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="images/product/recent/knife-valve-img1.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Knife Valve</a> </h3>
+                                <p>The FOURTECH KNIFE GATE VALVE  is specially engineered with precision machining and close tolerances with various material combinations engineered for heavy duty in various process applications and the waste water...</p>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
                         <img class="img-responsive" src="images/product/recent/cylinders-img1.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Cylinder and Tanks</a> </h3>
-                                <p>All High and Low pressure Cylinders are built with design standards conforming ...</p>
+                                <p>All High and Low pressure Cylinders are built with design standards conforming to ASME SEC VIII  DIV I for pressure vessels and offered with safety and relief valves in both welded dish ends and formed tank designs( with no welding )...
+</p>
                             </div> 
                         </div>
                     </div>
                 </div>
                 
 
-                <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/product/recent/ball-valve-img1.png" alt="">
-                        <div class="overlay">
-                            <div class="recent-work-inner">
-                                <h3><a href="#">Engineered Control Panels</a> </h3>
-                                <p>TSS and other material Control Panels for the Industry engineered ...</p>
-                            </div> 
-                        </div>
-                    </div>
-                </div>                
+              
 
                 
 
@@ -149,78 +143,47 @@
             </div>
 
             <div class="row">
-
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services1.png">
-                        </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <h3 class="media-heading">APPLICATION ENGINEERING</h3>
+                            <p>APPLICATION ENGINEERING, SELECTION OF ALL TYPES OF VALVES AND CONTROL SYSTEMS  AND CUSTOMISED AUTOMATION SOLUTIONS
+</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services2.png">
-                        </div>
+                       
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <h3 class="media-heading">CAD/CAM DESIGN</h3>
+                            ENGINEERING, CAD/CAM DESIGN FOR ALL PNEUMATIC/HYDRAULIC VALVE AUTOMATION SYSTEMS, TAILOR MADE TO CLIENT SPECIFIC NEEDS
                         </div>
                     </div>
                 </div>
 
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services3.png">
-                        </div>
+                        
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <h3 class="media-heading">FIELD SERVICES</h3>
+                            <p>POST SUPPLY SITE ASSISTANCE IN ERECTION, COMMISSIONING AND FIELD SERVICES AND MAINTENANCE</p>
                         </div>
                     </div>
                 </div>  
 
                 <div class="col-sm-6 col-md-4">
                     <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services4.png">
-                        </div>
+                       
                         <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <h3 class="media-heading">OUTSOURCING</h3>
+                            <p> OUTSOURCING, SUPPLY CHAIN MANAGEMENT SERVICES FOR ALL TYPES OF VALVES, AND ENGINEERED COMPONENTS</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-4">
-                    <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services5.png">
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-4">
-                    <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services6.png">
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
-                        </div>
-                    </div>
-                </div>                                                
+                                                                
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#services-->

@@ -6,13 +6,22 @@
   			<h2 class="page-title">Services</h2>
 		  </div>  
       <div class="wow fadeInDown">
-        <p>FOUR-TECH with its team of specialist engineers offers the following services to its OVERSEAS CLIENTS</p>
-        <p>SELECTION, APPRAISAL,DEVELOPMENT of product specific vendors in INDIA</p>
-        <p>Key product lines include</p>
-        <p>1) All types of VALVES 2) Control Systems 3) Engineered Panels 4) Valve Components like Castings, Forgings- fully machined  etc.</p>
-        <p>DESIGN, DRAWINGS, PREPARATION OF DOCUMENTATION FOR PROCESSING OF ORDER ON SUB VENDORS</p>
-        <p>FOLLOW UP ,INSPECTION AND APPROVALS OF FINAL PRODUCT DELIVERIES TO PRINCIPALS OVERSEAS</p>
-        <p>STOCKING AND WAREHOUSING FACILITIES AT PUNE FOR ALL SUCH BOUGHT OUT OR OUTSOURCED PRODUCTS</p>
+
+
+        <p><span class="text-red">FOUR TECH</span> with its design and engineering team offer clients a complete and comprehensive assistance in valve sizing, selection and design of specific Control Systems for  the Valve Automation applications in all process industries.</p>
+
+<p>Post sales services of assistance in Erection and Commissioning of such VALVES AND AUTOMATED SYSTEMS and field services are also carried out by the client services team of engineers at <span class="text-red">FOUR TECH</span>.</p>
+ <p>
+<span class="text-red">FOUR TECH</span> also assists overseas clients in proper selection, appraisal and development of suitable sub vendor network of suppliers for all TYPES OF VALVES, Valve Body Castings/Forgings, etc  and other engineered components. </p>
+<p>Key areas of associated wrok done at FOUR TECH include :
+
+1DESIGN, DRAWINGS, PREPARATION OF DOCUMENTATION FOR PROCESSING OF ORDER ON SUB VENDORS
+
+FOLLOW UP ,INSPECTION AND APPROVALS OF FINAL PRODUCT DELIVERIES TO PRINCIPALS OVERSEAS
+
+STOCKING AND WAREHOUSING FACILITIES AT PUNE FOR ALL SUCH BOUGHT OUT OR OUTSOURCED PRODUCTS
+</p>
+
       </div>  		
   	</div>
   </section>
